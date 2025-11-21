@@ -52,21 +52,9 @@ python p1.py
 
 ## 📝 Notes
 - Webcam resolution is fixed to **1280x720** for stable UI.
-- If the feed looks dark, adjust exposure using your system camera settings.
 - This project uses an older Mediapipe approach (from 2021).
 
-## 📷 Demo
-*(Add a screenshot or GIF if you want)*
 
 ## 📄 License
 Free to use and modify.
 ```
-
----
-
-If you want, I can also generate:
-
-✅ `.gitignore`
-✅ A nice demo GIF guide
-✅ Improved README with screenshots, emojis, sections, badges
-Just tell me!
